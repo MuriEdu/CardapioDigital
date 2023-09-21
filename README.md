@@ -52,7 +52,10 @@ Siga estas etapas para configurar o ambiente de desenvolvimento:
 
 ## Uso
 
-- Para utilizar inicie a aplicação backend `MenuSpplicstion.java` e para iniciar o frontend utilize `npm run dev`
+- Para utilizar abra as pastas `backend` e `frontend` separadamente
+- Inicie a API rodando o arquivo `MenuApplication.java` 
+- Inicie o Cardápio com o comando `npm run dev` (certifique-se de que o terminal esta apontando para a pasta `frontend`)
+- Após efetuar os passos anteriores o Cardápio ficará disponível em `localhost:5173`
 
 ## Licença
 
