@@ -1,5 +1,12 @@
 # Cardápio Digital - Projeto README
 
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=react&message=Frontend&color=blue&style=for-the-badge&logo=react"/><img src="https://img.shields.io/static/v1?label=spring&message=Backend&color=blue&style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=Database&color=blue&style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=green&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=status&message=DONE&color=greem&style=for-the-badge"/>
+<p>
+
 ## Introdução
 
 Este é um sistema desenvolvido utilizando Java Spring Boot e PostgreSQL no backend e React com TypeScript no frontend. Este README tem como objetivo fornecer uma visão geral do projeto, instruções de configuração e orientações para começar a desenvolver e usar o Cardápio Digital.
