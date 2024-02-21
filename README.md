@@ -52,7 +52,7 @@ Siga estas etapas para configurar o ambiente de desenvolvimento:
 
 - Configure as propriedades do banco de dados no arquivo `application.properties` para corresponder à sua configuração do PostgreSQL.
 
-### Backend
+### Frontend
 
 - Instale as dependências do frontend utilizando
 ##### `npm install`
